@@ -1,3 +1,0 @@
- Run the application to generate a report
- 
- Use Task Manager to verify that Word terminates
